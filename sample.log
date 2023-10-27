@@ -1,0 +1,1310 @@
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = C#m, chord = C#m
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = B, chord = B
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = E, chord = E
+INFO:root:res = B, chord = B
+INFO:root:7 res = G, chord = G7
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = G, chord = G
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = G, chord = G
+INFO:root:res = C, chord = C
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = D, chord = D
+INFO:root:res = D, chord = D
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
+INFO:root:res = A, chord = A
+INFO:root:res = E, chord = E
+INFO:root:res = A, chord = A
+INFO:root:res = A, chord = A
+INFO:root:res = B, chord = B
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:res = A, chord = A
+INFO:root:res = G, chord = G
+INFO:root:m7 res = Em, chord = Em7
+INFO:root:res = D, chord = D
+INFO:root:res = C, chord = C
+INFO:root:7 res = G, chord = G7
+INFO:root:7 res = G, chord = G7
+INFO:root:res = C, chord = C
+INFO:root:res = F, chord = F
+INFO:root:res = C, chord = C
+INFO:root:7 res = C, chord = C7
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = G, chord = G
+INFO:root:res = D, chord = D
